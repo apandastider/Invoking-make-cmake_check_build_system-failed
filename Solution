@@ -1,0 +1,9 @@
+Solution:
+
+user:~/catkin_ws $ cd src
+user:~/catkin_ws/src $ git clone https://github.com/stonier/qt_ros.git
+user:~/catkin_ws $ cd ../
+user:~/catkin_ws $ cd build
+user:~/catkin_ws/build $ git clone https://github.com/stonier/qt_ros.git
+user:~/~/catkin_ws $ cd ../
+user:~/~/catkin_ws $ catkin_make
